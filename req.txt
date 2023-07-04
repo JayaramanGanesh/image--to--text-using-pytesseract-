@@ -1,0 +1,19 @@
+
+python lib
+======================
+
+pip install pytesseract
+pip install nltk
+pip install PIL
+
+
+
+once run the code in file
+=========================
+nltk.download('punkt')
+nltk.download('stopwords')
+
+
+exe files and path
+==========================
+pytesseract link = https://github.com/UB-Mannheim/tesseract/wiki
